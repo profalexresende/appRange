@@ -1,0 +1,7 @@
+{
+  "name": "appRange",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
